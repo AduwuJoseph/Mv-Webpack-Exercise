@@ -1,6 +1,6 @@
-# AwesomeBooks
+# Webpack Setup
 
-In this project, I restructured [my Awesome books app code](https://github.com/AduwuJoseph/Mv-AwesomeBooks) to use ES6 Webpack. The goal is to make it more organized by using modules. 
+In this project, I setup and installed webpack
 
 ## Built With
 
